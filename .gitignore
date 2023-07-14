@@ -39,3 +39,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/untitled/target/
+/untitled/project/target/
+/target/
+/target/
+/target/
+/untitled/.bsp/
+/untitled/.bsp/
